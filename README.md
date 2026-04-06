@@ -31,26 +31,31 @@
 ### 🚀 Languages  
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,js,python" />
+  <p> C++ | JavaScript | Python</p>
 </p>
 
 ### 🌐 Frontend  
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  <p> ReactJs | NextJs | HTML | CSS | Tailwind | BootStrap</p>
 </p>
 
 ### 🛠 Backend  
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <p> NodeJs | ExpressJs</p>
 </p>
 
 ### 🗄 Databases  
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <p> MongoDB | PostgreSQL</p>
 </p>
 
 ### ⚙️ Tools  
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <p> Git | Github | Postman | VScode</p>
 </p>
 
 ---
