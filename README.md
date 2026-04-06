@@ -76,20 +76,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhjot-Singh-2004&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhjot-Singh-2004&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Let's Connect  
 
 📧 **Email:** prabhjotsingh.01122004@gmail.com  
 💻 **GitHub:** [Prabhjot-Singh-2004](https://github.com/Prabhjot-Singh-2004)  
+💻 **LinkedIn:** [Prabhjot-Singh-2004](https://www.linkedin.com/in/prabhjot-singh-bab65b2bb/)  
 
 ---
 
